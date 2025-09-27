@@ -1,6 +1,8 @@
 ![Image](https://github.com/user-attachments/assets/e451fcfd-d637-458f-8105-74f61b0ca939)
 ## **길라의 빛**은 이용자에게 **맞춤형 병원·약국 추천**을 제공하고, **건강 정보를 자유롭게 교류**할 수 있도록 도와주는 **건강 커뮤니티 플랫폼**입니다.
 
+https://ddo857ydmq0nf.cloudfront.net/
+
 ## 🔍 주요 기능
 
 ### 🏥 메인 화면  
